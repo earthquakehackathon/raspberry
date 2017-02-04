@@ -1,0 +1,18 @@
+{
+    "name": "adxl-345-sketch",
+    "version": "0.1",
+    "description": "Sketch which connects raspberry to an adxl345-sensor",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skylarstein/adxl345-sensor.git"
+    },
+    "keywords": [
+        "adxl-345"
+    ],
+    "dependencies": {
+        "adxl345-sensor":"0.0.8"
+    },
+    "author": "skylarstein",
+    "homepage": "https://github.com/skylarstein/adxl345-sensor"
+}

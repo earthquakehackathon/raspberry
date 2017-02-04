@@ -1,6 +1,6 @@
 {
     "name": "mqtt-dijkstra",
-    "version": "0.1.7",
+    "version": "0.1",
     "description": "Sketch which connects to an MQTT TLS endpoint (AWS IOT) and pubs a message (dijkstra node) to the topic.",
     "main": "app.js",
     "repository": {
@@ -16,6 +16,6 @@
         "node-dijkstra": "2.3.0",
         "mqtt": "2.3.1"
     },
-    "author": "Simone Zennaro",
-    "homepage": "https://github.com/earthquakehackathon/raspberry"
+    "author": "dottorsaimon",
+    "homepage": "http://www.earthquakehackathon.it/"
 }
