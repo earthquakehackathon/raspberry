@@ -1,2 +1,2 @@
 # raspberry
-Raspberry movement sensors sketches
+Raspberry sketches for [Earthquake Hackathon](http://www.earthquakehackathon.it/) 
