@@ -1,0 +1,18 @@
+{
+    "name": "nrf24l01-raspberry",
+    "version": "0.1.7",
+    "description": "Sketch for nrf24l01 radio module. not tested yet!",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/earthquakehackathon/raspberry.git"
+    },
+    "keywords": [
+        "nrf"
+    ],
+    "dependencies": {
+        "nrf":"0.8.3"
+    },
+    "author": "Simone Zennaro",
+    "homepage": "https://github.com/earthquakehackathon/raspberry"
+}
